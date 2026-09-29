@@ -1,0 +1,1044 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1790651126 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 7.5
+  ZOOM 280.22570247301013 1108 0
+  VZOOMEX 9.1960268 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C03\C03-S01-ScrollPitches.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 0 0 10 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 65 0.199526 0.891251 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 16385
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {45EB6FD4-980D-4E86-8523-F37431846E15}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {DF24FC25-5DB5-491D-B544-649BFB674922}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {D998A49A-15B7-4046-BA9E-95D1F465132C}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {6BEA69DA-5021-4D61-8AB1-BE6A21CDD24E}
+    NAME Track1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6BEA69DA-5021-4D61-8AB1-BE6A21CDD24E}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252134 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B62019D2-772F-410A-B986-7E71E1E41B16}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 3 -1 0 0.0025
+      CHANMODE 0
+      GUID {6054D4BA-D632-493E-8F8C-15D15D1F9F01}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252134 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCAB3974-DFFA-48DC-8271-0B5B5117C174}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBA640C8-FD38-4A5E-8812-82B4B8753FC1}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94D1996E-C329-4ED2-8BDA-E0ACCDD074EF}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 3 -1 0 0.0025
+      CHANMODE 0
+      GUID {488D7C26-4EC8-4449-A947-116C1F54FEDC}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58B29D80-D20F-43B2-9290-187041E0D4E6}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D07DF0E-0C65-4FA9-8654-9BBDD6B207DB}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D3B7DD1-C159-427F-9F0D-34577FCAB965}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 3 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D321F0A-A8F0-4FB3-83E4-0894F3E2031F}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4CB835B-6BC0-43D4-BB5D-6BF965CA66DA}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E81150BB-70B8-4A3C-BCE6-644767FB536F}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 3.192694044353
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252134 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF19FA44-53B7-47A4-AD8B-470C2397518C}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 8 -1 0 0.0025
+      CHANMODE 0
+      GUID {D84FA415-1881-4945-A172-0FA703912AEA}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.692694044353
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252133 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0B9D8CF-478B-40EB-A1DD-6E2C3D4DD5C5}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02C04659-9647-4AF2-B0CA-732AC1FA7EBF}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.19269404435299
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99CE8C41-0F92-4413-A28F-BA29A82A6020}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 8 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6C42374-F0C2-40CC-84BE-D9EB8D964E4D}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.69269404435299
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99E9BE92-378D-48A0-8B7E-07F94A2AB5FD}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5B6A909-A1C7-4028-87CB-DF62453C6887}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 5.19269404435299
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7EBBA76E-6381-49D2-83D8-774F60703CA2}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 8 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA0182C3-03D2-49AB-AB68-247E7AF15F3B}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 5.69269404435299
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEF97644-2284-4EA9-B2AA-1704E5E5BDBA}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A9180B7-D64D-417C-9BF4-BBDECAE423BB}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252134 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC949D55-3D5A-415D-AA73-7E40007BFB46}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 -8 -1 0 0.0025
+      CHANMODE 0
+      GUID {F85EC91C-06D1-4F5E-B4B8-5231AC964438}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252133 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D239A74-B7B1-4695-B37C-532BE15EB0F0}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1DFC444-D6BC-4C24-97D8-4D6B1D867731}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12CC2F6F-F55F-43BD-92B9-9F7CB46AFA79}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 -8 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DC4FFD2-4547-41E0-A712-D14A2C17F0FE}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4948F524-98B3-48E1-9ACC-B606153B45FE}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F894D80A-00D4-4958-8A89-0537110327A4}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD78F0EF-0B9B-483C-8D62-12486A32D2F5}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 -8 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AD56878-05FB-4149-A677-EF66D72BAE77}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FB25B098-E0C0-49B5-B32F-38D2239CAA30}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {723ABD54-B7E9-415E-8511-ECAB59B887D5}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+  >
+  <TRACK {A73CBCB6-74C5-483D-AAB3-A887BBF53DE0}
+    NAME Track2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A73CBCB6-74C5-483D-AAB3-A887BBF53DE0}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.25396429898262
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252134 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12A7550B-EFA1-4124-A803-06787B45B062}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {444C3FA6-91BC-43B7-BAD7-0262CC73D30D}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.75396429898262
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252134 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D26D0B3-2172-4EBC-9E6B-CB61F9AD94A0}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62CD1932-9C93-48D4-AF97-46DCD98FD556}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.25396429898262
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9BD7E2A-8D25-4669-982D-FE8C2BC0CC1C}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {493B52CD-77E4-4ED8-B023-81BC8236EFF3}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 1.75396429898262
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58EA50E3-51EA-4778-9BF6-ED6EC44DC0EC}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74F43BB7-EEA2-4293-9A0A-A6D639BAE5A4}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 2.25396429898262
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BF9D613-7774-4088-A933-CBB6E7090E79}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEC89A13-A42B-491B-AC40-A5D473AD22F9}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 3.44665834333983
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252135 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CACA6097-867C-4D81-B95E-5FA6541B1FE8}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {638CAF5B-F51E-42C4-8F47-EC0E2B75B207}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.94665834333983
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252133 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {700FF958-351C-4C27-8879-6ED95282B408}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {602BC986-A86F-4E3E-80E2-D3ED68ED4705}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.44665834333983
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20EC7142-E91B-4777-BD27-361548844204}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB732F6D-CE05-4B0F-8854-24059094C36B}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 4.94665834333983
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FBF74D4D-8A49-48D3-B30B-7EECB57263E7}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC01FC0D-E7EB-4BAE-9C0E-1544501143BA}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 5.44665834333983
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A4F53C8-F1EA-4F8D-962D-B9A3B2C1AA0E}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2D8E508-B71D-4609-8854-7664FCB238A6}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 6.75396429898683
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252135 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EAE5C762-D221-43C4-BBCA-7258A4D68ED0}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37875DD8-A599-4CCD-95AE-E1501F67387D}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.25396429898683
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.45581207252133 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF2B36BE-1004-409C-BA6C-426CDA89FBAD}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38DDE91A-F4EC-414B-B07D-F977CF26EB3B}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.75396429898683
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E2E7ED0-896F-4A49-A78D-494C7EFA718B}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F060A1B8-9E71-44BF-9F2B-AF51DC7EB4EC}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.25396429898683
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {490468DC-7B7A-4664-B964-1432E48A0CC5}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C993D72-1A60-4969-BBDC-AC07C21695DE}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.75396429898683
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.5 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4FD56A7-03B8-4F8C-B8C4-D72FCD85C23D}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5A977C4-26A3-46CC-A587-F5BE57297AA8}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+        >
+      >
+    >
+  >
+  <TRACK {1E85F549-3E48-4974-AB3F-33C5F90AD05A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1E85F549-3E48-4974-AB3F-33C5F90AD05A}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {073045A6-FFFA-4D35-A9D6-F06CD659395D}
+      IID 54
+      NAME C02-S02-Mouse-Scrolling_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A250F173-3029-450F-95F1-C1B34FD08A0B}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C02\C02-S02-Mouse-Scrolling_FAV.wav"
+      >
+    >
+  >
+>
