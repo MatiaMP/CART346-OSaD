@@ -1,0 +1,1085 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1790652070 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 6
+  ZOOM 138.01117556853407 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C03\C02-S02-FanTrackSlowMo.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 0 0 10 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 65 0.199526 0.891251 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.09060204030027 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {45EB6FD4-980D-4E86-8523-F37431846E15}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {DF24FC25-5DB5-491D-B544-649BFB674922}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {D998A49A-15B7-4046-BA9E-95D1F465132C}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {0E227DE4-BD6C-4E23-B87F-1FE9FCF20787}
+    NAME C01-S01-Fan
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.73679674640694 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0E227DE4-BD6C-4E23-B87F-1FE9FCF20787}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3823194-9ED9-4C2A-9E57-C02B07846B98}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {814ED81F-2BEE-4FC0-B929-CF6413A3B193}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC55D0CE-D8BE-4263-A1FD-06F4D50BAB64}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB5EF7E7-70A5-49A4-BA6B-04E7F1A1923E}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {95DE9C42-FB79-44A3-9EB8-4FF9AF1826DE}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C040B2AA-2D5E-4F76-8B11-7D51FE79EC88}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F48B2272-C3E7-4F2C-A2FE-F6421CC7DE02}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFBFA440-189C-456A-910F-7CC4F10F4644}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1CCD454D-15C7-4D1F-A502-6D6BD2197EA2}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC15A695-80FE-4DED-B760-9FE1F567598A}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F007153-1DD3-43C7-AEAD-C82786081B61}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72477D03-1B8D-4C5A-AFFB-778D447279A0}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F448D250-7B09-4AF1-B835-0A4D0706D74F}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E56700D-DC1E-4C54-9B48-A5A3BBC43BE4}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {23B18930-F6EE-474F-AF81-097268106947}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BB6B60C-3BDF-40EB-8A78-B23CA7F5A353}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B7C6893-BFD8-4EC5-9D72-5C6B3C065379}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B7CEFA2-4B4F-499C-963F-69FF0E5376EA}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {462BBAA9-8B2D-4B87-8F47-2F6E3D26CDEF}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44A1726D-0B06-4B2E-9E15-160BE1EE0AF0}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACA23DC1-328A-4E8F-9E32-95745A88E6D7}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {355797FB-7832-4DEA-9964-6AE3BB1BB94B}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0663737-4255-4572-A845-81339AEF4B0A}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A13FC017-74AE-4FC1-B631-88A7F05F106D}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BDF78C6-985F-4EFA-A63E-550476808899}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22F50696-2E7B-47AA-859F-A35A58B6BE78}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DCF9452E-0C00-4996-BF0C-0F3B0C258002}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E15BBFBA-DABE-4BD6-8CAF-F2EB2F90029A}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {930D74B5-0BAF-43D2-A399-CE18D2583481}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6A592BC-7734-429B-BFD1-9EBD8A5D2E76}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {304FEF1B-5E57-41E5-9B42-B93131B28F1C}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E33E46E4-1A78-46F4-BBD3-B1297E21838F}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8E9D01D-34E9-4CB5-9790-124A490E89E5}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCB9550F-A9B3-46D8-A984-CEAAA56288EF}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46F307D8-90A9-4F87-8FCC-A6D5A90F9A72}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7225A6D-D63A-4F7D-815A-FD9E0FB909E9}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8432A795-A238-4687-9824-3879C19F53B3}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD956D3B-06FA-42F0-A5B3-E301251888C4}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36903FE7-987F-4285-8184-21FF88B9D1F9}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB4613EF-2BFE-4087-8FCD-91C9FF92503C}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22CE7596-6BBB-4B46-BE10-358CDC86A9C3}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9524348-C180-41BB-B0BB-D19EA4E91B46}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B531EE3-9DF1-424A-89AD-0E568B81DC85}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6971B718-5CC9-474C-8F8C-9DDC84190F57}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {907D9F20-A0AC-4483-844F-0757B6C21CC0}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09A39C9F-80EC-438E-9191-26E2A1ED13EA}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6CA8F59-D155-4DC4-9DEC-77B5F61AEB86}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CD06915-D766-42D4-8EE8-573D64BF416B}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+  >
+  <TRACK {7BB666BB-8C6E-41E3-A9F7-82E15071283A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7BB666BB-8C6E-41E3-A9F7-82E15071283A}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE79F9A8-EBD6-464E-8479-A3E97E699697}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9E6CC8A-9F75-47D6-AC90-9AA98D18166E}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F6E538E-C279-47FA-9875-2EB1B5709D9D}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A680612-CE4F-4318-8AD2-E55965142DEB}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D32B2FA6-F7E2-49D1-964C-CB5601FDD11B}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56A0F0BE-CD07-4E01-B4E4-A703A581E233}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {706F4E4B-0C2F-477A-9F7C-473CC84A6EE3}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6982D89D-2D73-4B25-BDD9-963DA4E08C8D}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {311B81CA-74AB-48A5-8D82-31ACE2D7EF60}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA139F23-2DAE-403A-9EAB-4F2094353337}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73FC8D50-E381-4A61-8A09-79FAABB8EA1F}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F5C2946-599B-4B9E-8130-0B8313D5C0E3}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CCD281B8-7B7D-4B50-9B2D-C0C4E60DDFF9}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A95C903C-5272-467B-B680-5A6721FC81D3}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EEB3D63-89C4-40A4-A207-43C44BF55B64}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3BDCD55-9E88-441D-A551-8067CCA01AE2}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D68479BD-00D5-491E-B455-D0042C146DE1}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFAC8282-5FE3-4417-B941-D94E0CF30B3E}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38F569DA-616D-4C41-AB8C-79D9A16FA73F}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {806359BD-0911-4952-81E5-DCD462A5F6C1}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF5708B3-E9CB-4CAB-B1F9-9D4DB5680EB9}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F94B8882-BBD9-49B5-815C-B5061D50DCB1}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22B1C711-5642-4AF0-90C2-3B53E7B89DAD}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15330ABB-4147-4270-B6F2-027A5E173A11}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93DEA0B8-B422-485C-8BCA-0CB1FC21E748}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E83706A3-03F2-445C-9654-1C2ADEA3C680}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27907E34-576B-4F07-A45A-A39FF73D622C}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EAD8B77-92BE-4F55-8095-EDB437FC5641}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FF9CE2E-4842-4A09-827B-9F0AC3EB6EBD}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06BEB426-9D9B-4F03-87AB-F9FEC7282A73}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73D06589-C168-498C-9083-B3BD6D3D6760}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89199F2B-1D02-4239-8A98-BDCAF636FDB2}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28AE4394-29F4-4B32-AB48-65F40CAFECDB}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 0.25 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B2489AB-E04F-4EE0-9C45-EA8AC829D218}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7F86471-1344-4462-8848-6B3A607A0472}
+      IID 126
+      NAME C01-S01-Fan.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {378E8579-01C1-4790-87DB-913B8131B17A}
+      <SOURCE WAVE
+        FILE "C:\Users\matia\OneDrive\Desktop\Matia_Concordia\FALL2026\CART346\CART346-OSaD\C01\C01-S01-Fan.wav"
+      >
+    >
+  >
+>
