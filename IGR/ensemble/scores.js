@@ -87,5 +87,21 @@ const SCORES = [
       { at: '2:30', groups: 'all', stop: 'all', fade: 10 },
     ],
     end: '2:45',
-  }   
+  },
+  
+  {
+  title: 'C09 · Synth Score',
+  credit: 'Matia Paki',
+  groups: 4,
+  events: [
+      { at: '0:00', groups: 'A', play: 'MatiaMP/C09-S01_FAV', ratio: 1.0, fade: 2 },
+      { at: '0:10', groups: 'B', play: 'MatiaMP/C09-S03', ratio: 1.005, fade: 2 },
+      { at: '0:40', groups: 'C', play: 'MatiaMP/C09-S04', ratio: 1.01, fade: 6 },
+      { at: '1:30', groups: 'D', play: 'MatiaMP/C09-S0', ratio: 1.1, fade: 1 },
+      { at: '1:10', spread: 1.01, glide: 20 },
+      { at: '2:45', groups: 'all', stop: 'all', fade: 10 },
+  ],
+  end: '3:00'
+},
+
 ];
