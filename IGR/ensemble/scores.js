@@ -104,4 +104,36 @@ const SCORES = [
   end: '3:00'
 },
 
+{
+  title: 'C10 · Internal Body',
+  credit: 'Matia',
+  groups: 4,
+  events: [
+    { at: '0:00', groups: 'AB', play: 'MatiaMP/C10-S04-Hum', ratio: 1.0, fade: 8, level: 0.35 },
+    { at: '0:08', groups: 'CD', play: 'MatiaMP/C10-S04-Hum', ratio: 1.003, fade: 8, level: 0.35 },
+    { at: '0:20', groups: 'B',  play: 'MatiaMP/C10-S01-Heartbeat_FAV', ratio: 1.0, fade: 4, level: 0.65 },
+    { at: '0:26', groups: 'C',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.8 },
+    { at: '0:30', groups: 'A',  play: 'MatiaMP/C10-S05-Breathing', loop: false, level: 0.08 },
+    { at: '0:34', groups: 'D',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.8 },
+    { at: '0:39', groups: 'A',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.7 },
+    { at: '0:45', groups: 'AC', play: 'MatiaMP/C10-S01-Heartbeat_FAV', ratio: 1.01, fade: 5, level: 0.65 },
+    { at: '0:52', groups: 'D',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.75 },
+    { at: '0:58', groups: 'B',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.8 },
+    { at: '1:05', spread: 1.005, glide: 18 },
+    { at: '1:11', groups: 'C',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.7 },
+    { at: '1:15', groups: 'CD', play: 'MatiaMP/C10-S05-Breathing', loop: false, level: 0.1 },
+    { at: '1:25', groups: 'A',  play: 'MatiaMP/C10-S03-FabricShuffle', fade: 4, level: 0.015 },
+    { at: '1:30', groups: 'B',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.75 },
+    { at: '1:35', groups: 'B',  stop: 'MatiaMP/C10-S01-Heartbeat_FAV', fade: 6 },
+    { at: '1:38', groups: 'A',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.8 },
+    { at: '1:42', groups: 'D',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.7 },
+    { at: '1:45', groups: 'A',  stop: 'MatiaMP/C10-S03-FabricShuffle', fade: 4 },
+    { at: '1:50', groups: 'D',  play: 'MatiaMP/C10-S01-Heartbeat_FAV', ratio: 1.004, fade: 6, level: 0.7 },
+    { at: '2:05', groups: 'BC', play: 'MatiaMP/C10-S05-Breathing', loop: false, level: 0.1 },
+    { at: '2:15', groups: 'C',  play: 'MatiaMP/C10-S02-JointCrack', loop: false, level: 0.75 },
+    { at: '2:40', groups: 'all', stop: 'all', fade: 10 },
+  ],
+  end: '2:50'
+},
+
 ];
